@@ -1,0 +1,8 @@
+git update-git-for-windows
+git config -l (git config --list)
+git config --global user.name “Gabriel Solari”
+git config --global user.email “gabriel.solari1@unmsm.edu.pe”
+git init
+git remote add origin {url}
+git remote -v
+rm -rf .git

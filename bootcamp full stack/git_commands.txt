@@ -6,3 +6,7 @@ git init
 git remote add origin {url}
 git remote -v
 rm -rf .git
+git status
+git add .
+git commit -m {”mensaje”}
+git push origin main
